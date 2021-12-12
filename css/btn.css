@@ -11,3 +11,8 @@
   border-radius: 25px;
   cursor: pointer;
 }
+
+.btn:hover {
+  background: #f5101c;
+  color: #fff;
+}
